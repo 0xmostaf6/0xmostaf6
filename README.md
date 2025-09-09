@@ -4,37 +4,6 @@
 - Threat intelligence correlation with DFIR investigations. **tryhackme and hack the box and cyberdefence**
 
 - 📫 How to reach me **mostafaahmedmostafa669@gmail.com**
-<h3 align="left">🛠 Tools & Technologies:</h3>
-
-<!-- SOC / Pentest Tools -->
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap-logo.svg" alt="Nmap" width="60" height="60"/>
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" alt="Wireshark" width="60" height="60"/>
-  <img src="https://www.metasploit.com/includes/images/logo.svg" alt="Metasploit" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Nessus_logo.svg" alt="Nessus" width="60" height="60"/>
-  <img src="https://www.snort.org/assets/img/snort-logo.png" alt="Snort" width="60" height="60"/>
-  <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-splunk-hd-logo.png" alt="Splunk" width="60" height="60"/>
-</p>
-
-<!-- DFIR Tools -->
-<p align="left">
-  <img src="https://www.autopsy.com/wp-content/uploads/2016/10/autopsy.png" alt="Autopsy" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/volatilityfoundation/volatility/master/docs/source/_static/volatility_logo.png" alt="Volatility" width="60" height="60"/>
-  <img src="https://www.guidancesoftware.com/img/ftk-imager.png" alt="FTK Imager" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Log2timeline_logo.png" alt="Log2Timeline" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Redline_logo.png" alt="Redline" width="60" height="60"/>
-</p>
-
-<!-- Active Directory Attack Tools -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Extensions/SharpHound/assets/bloodhound.png" alt="BloodHound" width="60" height="60"/>
-  <img src="https://github.com/SecureAuthCorp/impacket/raw/master/docs/impacket.png" alt="Impacket" width="60" height="60"/>
-  <img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" alt="Mimikatz" width="60" height="60"/>
-  <img src="https://camo.githubusercontent.com/2145f19b9bbd5f5191b2a3e5d9c5a491091696e0e0cbe48d6f9d24d7823ee799/68747470733a2f2f7261776769746875622e636f6d2f47686f73745061636b2f506f776572566965772f6d61737465722f496d616765732f706f776572766965772d6c6f676f2e706e67" alt="PowerView" width="60" height="60"/>
-</p>
-
-
 
 <h3 align="left">🛠 Tools & Technologies:</h3>
 
