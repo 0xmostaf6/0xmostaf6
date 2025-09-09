@@ -7,6 +7,31 @@
 <h3 align="left">🛠 Tools & Technologies:</h3>
 
 <p align="left">
+  <!-- SOC / Pentest -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap-logo.svg" alt="Nmap" width="60" height="60"/>
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" alt="Wireshark" width="60" height="60"/>
+  <img src="https://www.metasploit.com/includes/images/logo.svg" alt="Metasploit" width="60" height="60"/>
+</p>
+
+<p align="left">
+  <!-- DFIR -->
+  <img src="https://www.autopsy.com/wp-content/uploads/2016/10/autopsy.png" alt="Autopsy" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/volatilityfoundation/volatility/master/docs/source/_static/volatility_logo.png" alt="Volatility" width="60" height="60"/>
+  <img src="https://www.guidancesoftware.com/img/ftk-imager.png" alt="FTK Imager" width="60" height="60"/>
+</p>
+
+<p align="left">
+  <!-- Active Directory Attack -->
+  <img src="https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Extensions/SharpHound/assets/bloodhound.png" alt="BloodHound" width="60" height="60"/>
+  <img src="https://github.com/SecureAuthCorp/impacket/raw/master/docs/impacket.png" alt="Impacket" width="60" height="60"/>
+  <img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" alt="Mimikatz" width="60" height="60"/>
+</p>
+
+
+<h3 align="left">🛠 Tools & Technologies:</h3>
+
+<p align="left">
   <!-- SOC / Pentest Tools -->
   <img src="https://img.shields.io/badge/Nmap-blue?logo=linux&logoColor=white" alt="Nmap" height="30"/> 
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?logo=burpsuite&logoColor=white" alt="Burp Suite" height="30"/> 
