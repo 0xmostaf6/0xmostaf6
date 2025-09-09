@@ -8,8 +8,8 @@
 
 <p align="left">
   <!-- SOC / Pentest Tools -->
-  <img src="https://nmap.org/" alt="Nmap" height="30"/> 
-  <img src="https://portswigger.net/burp" alt="Burp Suite" height="30"/> 
+  <img src="https://img.shields.io/badge/Nmap-blue?logo=linux&logoColor=white" alt="Nmap" height="30"/> 
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?logo=burpsuite&logoColor=white" alt="Burp Suite" height="30"/> 
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark" height="30"/> 
   <img src="https://img.shields.io/badge/Metasploit-000000?logo=metasploit&logoColor=white" alt="Metasploit" height="30"/> 
   <img src="https://img.shields.io/badge/Nessus-009639?logo=tenable&logoColor=white" alt="Nessus" height="30"/> 
