@@ -4,6 +4,28 @@
 - Threat intelligence correlation with DFIR investigations. **tryhackme and hack the box and cyberdefence**
 
 - 📫 How to reach me **mostafaahmedmostafa669@gmail.com**
+<h3 align="left">🛠 Tools & Technologies:</h3>
+
+<p align="left">
+  <!-- SOC / Pentest Tools -->
+  <img src="https://img.shields.io/badge/Nmap-2C2D72?logo=linux&logoColor=white" alt="Nmap" height="30"/> 
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?logo=burpsuite&logoColor=white" alt="Burp Suite" height="30"/> 
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark" height="30"/> 
+  <img src="https://img.shields.io/badge/Metasploit-000000?logo=metasploit&logoColor=white" alt="Metasploit" height="30"/> 
+  <img src="https://img.shields.io/badge/Nessus-009639?logo=tenable&logoColor=white" alt="Nessus" height="30"/> 
+  <img src="https://img.shields.io/badge/Snort-E34F26?logo=snort&logoColor=white" alt="Snort" height="30"/> 
+  <img src="https://img.shields.io/badge/Splunk-F04E98?logo=splunk&logoColor=white" alt="Splunk" height="30"/> 
+</p>
+
+<p align="left">
+  <!-- DFIR Tools -->
+  <img src="https://img.shields.io/badge/Volatility-39457E?logo=python&logoColor=white" alt="Volatility" height="30"/> 
+  <img src="https://img.shields.io/badge/Autopsy-004B87?logo=windows&logoColor=white" alt="Autopsy" height="30"/> 
+  <img src="https://img.shields.io/badge/FTK%20Imager-3B3B3B?logo=windows&logoColor=white" alt="FTK Imager" height="30"/> 
+  <img src="https://img.shields.io/badge/Redline-990000?logo=firefox&logoColor=white" alt="Redline" height="30"/> 
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white" alt="ELK" height="30"/> 
+  <img src="https://img.shields.io/badge/Velociraptor-2E8B57?logo=ubuntu&logoColor=white" alt="Velociraptor" height="30"/> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
