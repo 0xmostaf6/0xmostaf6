@@ -26,7 +26,15 @@
   <img src="https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white" alt="ELK" height="30"/> 
   <img src="https://img.shields.io/badge/Velociraptor-2E8B57?logo=ubuntu&logoColor=white" alt="Velociraptor" height="30"/> 
 </p>
-
+<p align="left">
+  <!-- Active Directory Attack Tools -->
+  <img src="https://img.shields.io/badge/BloodHound-FF0000?logo=graph&logoColor=white" alt="BloodHound" height="30"/> 
+  <img src="https://img.shields.io/badge/SharpHound-444444?logo=dotnet&logoColor=white" alt="SharpHound" height="30"/> 
+  <img src="https://img.shields.io/badge/Mimikatz-006400?logo=windows&logoColor=white" alt="Mimikatz" height="30"/> 
+  <img src="https://img.shields.io/badge/Impacket-2C3E50?logo=python&logoColor=white" alt="Impacket" height="30"/> 
+  <img src="https://img.shields.io/badge/Rubeus-8B0000?logo=windows&logoColor=white" alt="Rubeus" height="30"/> 
+  <img src="https://img.shields.io/badge/Responder-191970?logo=linux&logoColor=white" alt="Responder" height="30"/> 
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xmostaf6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xmostaf6" height="30" width="40" /></a>
